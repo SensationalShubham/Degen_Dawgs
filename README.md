@@ -1,4 +1,4 @@
 # Degen Dawgs
 
 Actual Site Link - 
-https://sensationalshubham.github.io/doggoNFT.github.io/
+https://sensationalshubham.github.io/Degen_Dawgs/
