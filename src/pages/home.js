@@ -139,7 +139,7 @@ class Home extends React.Component{
           <div class="h-1 w-20 bg-indigo-500 rounded"></div>
         </h1>
         <p class="mb-8 leading-relaxed">
-          Degen Dawgs --{'>'} Thanx to Aptos Blockchain. Now, you can mint the Doggo NFTs for free and later stake that at
+          Degen Dawgs --{'>'} Once a degen, always a degen! Thanx to Aptos Blockchain. Now, you can mint the Doggo NFTs for free and later stake that at
           higher prices. Click below for further info.
         </p>
         <div class="flex justify-center">
